@@ -2,7 +2,7 @@
 
 ## RGC database
 
-our RGC Database consists of:
+Our RGC Database consists of:
 1. 2100 videos, with 700 videos allocated to each of the three categories: drones, wheeled robots, and humanoid robots.
 2. Mean opinion score (MOS) of the overall quality for each video.
  
